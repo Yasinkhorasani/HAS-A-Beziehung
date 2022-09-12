@@ -46,7 +46,7 @@ public class KundeTest {
 		System.out.println("justs muss noch " + justus.getRechnungsHöhe() + " bezahlen");
 		bob.setName("bob andreas");
 		if(bob.isWerbungErlaubt()) {
-			System.out.println(bob.getName() +"bekommt bald eine werbemail");
+			System.out.println(bob.getName() +"bekommt bald eine werbemaill");
 		}
 		
 		Kunde[] dieKunden = new Kunde [3];
