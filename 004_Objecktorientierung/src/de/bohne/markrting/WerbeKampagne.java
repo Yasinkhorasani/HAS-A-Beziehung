@@ -120,11 +120,4 @@ public class WerbeKampagne {
 		dieKunden = ausgewaelteKunden;
 	}
 }
-/*
-* Bearbeiten des letzten Projekts: Objekte/Klasse testen
-* Erweitern der Klassen/ neue Klassen erstellen: HAS-A-Beziehungen einbauen
-* Beispiel: Tier hat einen Schlafplatz, der hat ein Zimmer
-* Beispiel: Koch hat viele Messer mit unterschiedlichen Klingenformen
-* Beispiel: Nachbarin hat Wischroboter
-* ...
-*/
+
